@@ -5,14 +5,15 @@ Bonjour ! Je suis Roxane RIVIERE, passionnée par la Business Intelligence, avec
 J'ai une forte curiosité pour les nouvelles technologies, j'aime créer des solutions innovantes et résoudre des problèmes complexes.  
 
 🌍 Basée à : Saint-Denis, La Réunion
+
 🎓 Formation : Business Intelligence Analyst - OpenClassrooms
 
 ---
 
 ## 🚀 Projets phares
-### **[Projet 7](https://github.com/Roxane-R/POWER-BI)**
+- **[Projet 7](https://github.com/Roxane-R/POWER-BI)**
 
-### **[Projet 8](https://github.com/Roxane-R/PYTHON)**
+- **[Projet 8](https://github.com/Roxane-R/PYTHON)**
 
 ---
 
