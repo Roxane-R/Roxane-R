@@ -10,27 +10,32 @@ J'ai une forte curiosité pour les nouvelles technologies, j'aime créer des sol
 
 ---
 
-## 🚀 Projets phares
-- **[Projet 7](https://github.com/Roxane-R/POWER-BI)**
+## 📑 Index des projets
+- **[Tableaux de bord Power BI](https://github.com/Roxane-R/POWER-BI)**
 
-- **[Projet 8](https://github.com/Roxane-R/PYTHON)**
+- **[ETL Power Query](https://github.com/Roxane-R/POWER-QUERY)**
+
+- **[Notebooks Python](https://github.com/Roxane-R/PYTHON)**
+
+- **[Requêtes SQL](https://github.com/Roxane-R/SQL)**
+
+- **[Candidature Aéroworld](https://github.com/Roxane-R/AEROWORLD)**
 
 ---
 
 ## 🛠️ Compétences techniques
 Voici un aperçu de mes compétences :
 - **Langages de programmation** : SQL, Python, DAX
-- **Frameworks & Librairies** : Pandas, Numpy, Seaborn
+- **Librairies Python** : Pandas, Numpy, Seaborn
 - **Bases de données** : SQLiteStudio
-- **Outils & autres compétences** : Excel, Power Query, Power BI
-  
+- **Outils d'analyse et de visualisation de données** : Excel, Power Query, Power BI
+   
 ---
 
 ## 📫 Contact
 Vous pouvez me joindre via les canaux suivants :
 - **Email** : roxane.rivi@gmail.com
 - **LinkedIn** : [Accédez à mon profil](https://www.linkedin.com/in/roxane-riviere/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/roxane-riviere)
 
 ---
 N'hésitez pas à explorer mes projets et livrables. A bientôt pour échanger ! 
