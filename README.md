@@ -30,6 +30,7 @@ Voici un aperçu de mes compétences :
 Vous pouvez me joindre via les canaux suivants :
 - **Email** : roxane.rivi@gmail.com
 - **LinkedIn** : [Accédez à mon profil](https://www.linkedin.com/in/roxane-riviere/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/roxane-riviere)
 
 ---
 N'hésitez pas à explorer mes projets et livrables. A bientôt pour échanger ! 
