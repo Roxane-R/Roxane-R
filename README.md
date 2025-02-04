@@ -27,7 +27,7 @@ J'ai une forte curiosité pour les nouvelles technologies, j'aime créer des sol
 Voici un aperçu de mes compétences :
 - **Langages de programmation** : SQL, DAX, Python
 - **Librairies Python** : Pandas, Numpy, Seaborn
-- **Bases de données** : SQLiteStudio
+- **Base de données** : SQLiteStudio
 - **Outils d'analyse et de visualisation de données** : Excel, Power Query, Power BI
    
 ---
